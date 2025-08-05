@@ -1,0 +1,6 @@
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.csproj.AssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\ExchangeInstaller\obj\Debug\net8.0\ExchangeInstaller.sourcelink.json

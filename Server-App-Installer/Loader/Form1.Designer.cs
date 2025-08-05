@@ -1,4 +1,4 @@
-﻿namespace Server_App_Installer
+﻿namespace Loader
 {
     partial class Form1
     {

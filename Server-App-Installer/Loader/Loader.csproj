@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6529615-F1D6-4F3C-9133-0410DCFBF144}</ProjectGuid>
+    <ProjectGuid>{C8F4FA6E-9F0E-4A99-A0FA-B9A9B73FF0DE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Server_App_Installer</RootNamespace>
-    <AssemblyName>Server-App-Installer</AssemblyName>
+    <RootNamespace>Loader</RootNamespace>
+    <AssemblyName>Loader</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -78,12 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\UsefulFunctions\UsefulFunctions.csproj">
-      <Project>{59d04026-a58e-444c-8636-aebd8a42989b}</Project>
-      <Name>UsefulFunctions</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

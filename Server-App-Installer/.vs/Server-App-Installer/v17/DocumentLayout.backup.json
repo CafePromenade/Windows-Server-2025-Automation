@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8CE4323-0852-4537-844D-184B0F44D89D}|ExchangeInstaller\\ExchangeInstaller.csproj|c:\\users\\cntow\\documents\\github\\windows-server-2025-automation\\server-app-installer\\exchangeinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CE4323-0852-4537-844D-184B0F44D89D}|ExchangeInstaller\\ExchangeInstaller.csproj|solutionrelative:exchangeinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CE4323-0852-4537-844D-184B0F44D89D}|ExchangeInstaller\\ExchangeInstaller.csproj|c:\\users\\cntow\\documents\\github\\windows-server-2025-automation\\server-app-installer\\exchangeinstaller\\exchangeinstaller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8CE4323-0852-4537-844D-184B0F44D89D}|ExchangeInstaller\\ExchangeInstaller.csproj|solutionrelative:exchangeinstaller\\exchangeinstaller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D04026-A58E-444C-8636-AEBD8A42989B}|UsefulFunctions\\UsefulFunctions.csproj|c:\\users\\cntow\\documents\\github\\windows-server-2025-automation\\server-app-installer\\usefulfunctions\\usefulsetupfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D04026-A58E-444C-8636-AEBD8A42989B}|UsefulFunctions\\UsefulFunctions.csproj|solutionrelative:usefulfunctions\\usefulsetupfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6529615-F1D6-4F3C-9133-0410DCFBF144}|Server-App-Installer\\Server-App-Installer.csproj|c:\\users\\cntow\\documents\\github\\windows-server-2025-automation\\server-app-installer\\server-app-installer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6529615-F1D6-4F3C-9133-0410DCFBF144}|Server-App-Installer\\Server-App-Installer.csproj|solutionrelative:server-app-installer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6529615-F1D6-4F3C-9133-0410DCFBF144}|Server-App-Installer\\Server-App-Installer.csproj|c:\\users\\cntow\\documents\\github\\windows-server-2025-automation\\server-app-installer\\server-app-installer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D6529615-F1D6-4F3C-9133-0410DCFBF144}|Server-App-Installer\\Server-App-Installer.csproj|solutionrelative:server-app-installer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 389,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeInstaller",
+              "DocumentMoniker": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\ExchangeInstaller\\ExchangeInstaller.csproj",
+              "RelativeDocumentMoniker": "ExchangeInstaller\\ExchangeInstaller.csproj",
+              "ToolTip": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\ExchangeInstaller\\ExchangeInstaller.csproj",
+              "RelativeToolTip": "ExchangeInstaller\\ExchangeInstaller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T18:51:50.454Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -47,6 +76,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\ExchangeInstaller\\Program.cs",
+              "RelativeDocumentMoniker": "ExchangeInstaller\\Program.cs",
+              "ToolTip": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\ExchangeInstaller\\Program.cs",
+              "RelativeToolTip": "ExchangeInstaller\\Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwNAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:47:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsefulSetupFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\UsefulFunctions\\UsefulSetupFunctions.cs",
+              "RelativeDocumentMoniker": "UsefulFunctions\\UsefulSetupFunctions.cs",
+              "ToolTip": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\UsefulFunctions\\UsefulSetupFunctions.cs",
+              "RelativeToolTip": "UsefulFunctions\\UsefulSetupFunctions.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:18:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\Server-App-Installer\\Form1.cs",
+              "RelativeDocumentMoniker": "Server-App-Installer\\Form1.cs",
+              "ToolTip": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\Server-App-Installer\\Form1.cs",
+              "RelativeToolTip": "Server-App-Installer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:17:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\cntow\\Documents\\GitHub\\Windows-Server-2025-Automation\\Server-App-Installer\\Server-App-Installer\\Form1.cs",
               "RelativeDocumentMoniker": "Server-App-Installer\\Form1.cs",
@@ -55,10 +127,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T16:58:04.831Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

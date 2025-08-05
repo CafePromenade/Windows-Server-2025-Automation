@@ -16,5 +16,10 @@ namespace Server_App_Installer
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

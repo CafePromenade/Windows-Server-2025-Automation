@@ -1,0 +1,10 @@
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\bin\Debug\netstandard2.1\UsefulFunctions.deps.json
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\bin\Debug\netstandard2.1\UsefulFunctions.dll
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\bin\Debug\netstandard2.1\UsefulFunctions.pdb
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.AssemblyInfoInputs.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.AssemblyInfo.cs
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.sourcelink.json
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.dll
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\UsefulFunctions\obj\Debug\netstandard2.1\UsefulFunctions.pdb
