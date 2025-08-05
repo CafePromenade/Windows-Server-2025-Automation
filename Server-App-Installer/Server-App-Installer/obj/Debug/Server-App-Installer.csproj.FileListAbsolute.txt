@@ -1,0 +1,9 @@
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\bin\Debug\Server-App-Installer.exe.config
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\bin\Debug\Server-App-Installer.exe
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\bin\Debug\Server-App-Installer.pdb
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server-App-Installer.csproj.AssemblyReference.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server_App_Installer.Properties.Resources.resources
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server-App-Installer.csproj.GenerateResource.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server-App-Installer.csproj.CoreCompileInputs.cache
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server-App-Installer.exe
+C:\Users\cntow\Documents\GitHub\Windows-Server-2025-Automation\Server-App-Installer\Server-App-Installer\obj\Debug\Server-App-Installer.pdb
